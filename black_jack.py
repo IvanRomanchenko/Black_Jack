@@ -75,3 +75,12 @@ while True:
 
     else:
         print("Неверный ввод! Попробуй ещё раз.")
+
+
+
+
+
+
+
+''' by
+          Ivan Romanchenko '''
